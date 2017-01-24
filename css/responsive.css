@@ -1,0 +1,30 @@
+
+@media (min-width: 992px) {
+    figure{
+        width: 33.3333%;
+        transition: width 0.7s ease-in-out;
+    }
+}
+@media (min-width: 786px) and (max-width: 992px) {
+    figure{
+        width: 50%;
+        transition: width 0.7s ease-in-out;
+    }
+}
+@media (min-width: 500px) and (max-width: 786px) {
+    figure{
+        width: 100%;
+        transition: width 0.7s ease-in-out;
+    }
+}
+@media (max-width: 550px){
+    body{
+        margin:0;
+    }
+    figure{
+        width: 100%;
+        transition: width 0.7s ease-in-out;
+    }
+}
+    
+    

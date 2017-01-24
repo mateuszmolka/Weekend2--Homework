@@ -13,20 +13,27 @@ h2 {
 }
 
 #gallery {
-	width: 1024px;
+	width: 94%x;
 	margin: 0 auto;
 	text-align: center;
+    font-size: 0;
+}
+
+header{
+    font-size: initial;
 }
 
 figure {
 	display: inline-block;
-	width: 338px;
+	width: 33.3333%;
 	margin: 0;
 	margin-bottom: 10px;
+    
 }
 
 figure figcaption {
 	text-align: center;
+    font-size: initial;
 }
 
 figure img{
