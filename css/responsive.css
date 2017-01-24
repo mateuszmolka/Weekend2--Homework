@@ -25,6 +25,9 @@
         width: 100%;
         transition: width 0.7s ease-in-out;
     }
+    figure img{
+	border: 0;
+}
 }
     
     
